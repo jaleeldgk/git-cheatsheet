@@ -1,5 +1,5 @@
 # Git Crash Course for Beginners
-##By [https://github.com/brandon1024](brandon1024)
+## By [brandon1024](https://github.com/brandon1024)
 ## Preface
 A good understanding of Git is an incredibly valuable tool for anyone working amongst a group on a single project. At first, learning how to use Git will appear quite complicated and difficult to grasp, but it is actually quite simple and easy to understand.
 
